@@ -7,7 +7,7 @@
 💡 Love turning ideas into scalable, innovative solutions.
 🔧 Let's code something amazing together! Get in touch.
 
-Skills: VUE JS / REACT /TAILWIND/ JS / HTML / CSS
+Skills and Tools: VUE JS / REACT /TAILWIND/ JS / HTML / CSS
 
 - 🔭 I’m currently working on REACT 
 - 🌱 I’m currently learning socet.oi 
