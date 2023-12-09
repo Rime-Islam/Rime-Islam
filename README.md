@@ -57,10 +57,10 @@
     
   <h5>Features : </h5>
   
-  -  User can login.
-  -  User can add product by logging in.
-  -  Users can delete those products if they want.
-  -  User can view and update the details of that product.
+  -  Signup and signin page with firebase authentication.
+  -  Order a parcel section build with metarialui.
+  -  Depend on parcel status user can update, delete, and give reviews.
+  -  User can upload and update his/her profile picture.
 
  <h5>Technology:</h5>
  
@@ -72,10 +72,11 @@
     
   <h5>Features : </h5>
   
-  -  User can login.
-  -  User can add product by logging in.
-  -  Users can delete those products if they want.
-  -  User can view and update the details of that product.
+  -  Firebase authentic login and register section with error text.
+  -  Private routes are protected from not logged in user.
+  -  Server site pagination and client site search functionality.
+  -  User can add their own food item.
+  -  User only have access to their booked and added data.
 
  <h5>Technology:</h5>
  
@@ -87,9 +88,9 @@
     
   <h5>Features : </h5>
   
-  -  User can login.
-  -  User can add product by logging in.
-  -  Users can delete those products if they want.
+  -  Only logged in user has access to the private routes.
+  -  Available products will visible according to the clicked brand.
+  -  New product can be added through a input form page.
   -  User can view and update the details of that product.
 
  <h5>Technology:</h5>
