@@ -18,11 +18,9 @@ Skills: VUE JS / REACT /TAILWIND/ JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bashputi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rime-islam-b8a2142a1/)  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bashputi&background=45%2C7595EB%2C7AEBDE)](https://git.io/streak-stats)
-
 [![Top Trends](https://api.githubtrends.io/user/svg/bashputi/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashputi)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bashputi&show_icons=true)  
 
 
