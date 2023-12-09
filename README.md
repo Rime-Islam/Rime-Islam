@@ -49,3 +49,52 @@
 
 
 
+<h2 align="left">🤷‍♂️ Latest Project :</h2>
+
+  <h3> 1 : Book order and delivery</h3>
+  
+  <h4><a href="https://parcel-delivery-user.web.app">Live Link</h4>
+    
+  <h5>Features : </h5>
+  
+  -  User can login.
+  -  User can add product by logging in.
+  -  Users can delete those products if they want.
+  -  User can view and update the details of that product.
+
+ <h5>Technology:</h5>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=js,materialui,tailwind,react,express,firebase,mongodb,html,css)](https://skillicons.dev)
+
+   <h3> 2 : Bakery website</h3>
+  
+  <h4><a href="https://bakery-client-2384d.web.app">Live Link</h4>
+    
+  <h5>Features : </h5>
+  
+  -  User can login.
+  -  User can add product by logging in.
+  -  Users can delete those products if they want.
+  -  User can view and update the details of that product.
+
+ <h5>Technology:</h5>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=js,tailwind,react,express,firebase,mongodb,html,css)](https://skillicons.dev)
+
+   <h3> 3 : Car selling Website</h3>
+  
+  <h4><a href="https://brandsore-client.web.app">Live Link</h4>
+    
+  <h5>Features : </h5>
+  
+  -  User can login.
+  -  User can add product by logging in.
+  -  Users can delete those products if they want.
+  -  User can view and update the details of that product.
+
+ <h5>Technology:</h5>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=js,tailwind,react,express,firebase,mongodb,html,css)](https://skillicons.dev)
+
+
+
