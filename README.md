@@ -20,13 +20,9 @@
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   
 </p>
 
-
-
 <div align="right">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="coding" height="200">
 </div>
-
-
 
 - 🔭 I’m currently working on REACT 
 - 🌱 I’m currently learning socet.oi 
