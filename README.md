@@ -20,22 +20,22 @@
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   
 </p>
 
-<p align="right">
+<div class="flex-container">
+<div align="right">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="coding" height="400">
-</p>
+</div>
 
+<div class="grid-container">
 - 🔭 I’m currently working on REACT 
 - 🌱 I’m currently learning socet.oi 
 - 📫 How to reach me: rimeislam672@gmail.com 
 - ⚡ Fun fact:  I'm an aspiring baker! I enjoy creating delicious cakes almost as much as I love crafting code.
 
-
-
-
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bashputi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rime-islam-b8a2142a1/)   
 
 
-
+</div>
+</div>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bashputi&background=45%2C7595EB%2C7AEBDE)](https://git.io/streak-stats)
