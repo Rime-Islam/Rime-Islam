@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is bashputi
-#### I am MERN stack developer
+#### I am Full stack developer
 ![I am Full stack developer](https://i.ibb.co/qYByCd1/Screenshot-2023-12-09-123414.png)
 
 🚀 Passionate MERN stack developer crafting seamless web experiences.
