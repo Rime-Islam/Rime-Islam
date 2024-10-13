@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is bashputi
 #### I am MERN stack developer
-![I am MERN stack developer](https://i.ibb.co/qYByCd1/Screenshot-2023-12-09-123414.png)
+![I am Full stack developer](https://i.ibb.co/qYByCd1/Screenshot-2023-12-09-123414.png)
 
 🚀 Passionate MERN stack developer crafting seamless web experiences.
 🌟 Frontend wizard with React.js, backend enthusiast with Node.js.
