@@ -2,8 +2,8 @@
 #### I am Full stack developer
 ![I am Full stack developer](https://i.ibb.co/qYByCd1/Screenshot-2023-12-09-123414.png)
 
-🚀 Passionate MERN stack developer crafting seamless web experiences.
-🌟 Frontend wizard with React.js, backend enthusiast with Node.js.
+🚀 Passionate Full stack developer crafting seamless web experiences.
+🌟 Frontend wizard with React.js & NExt.js, backend enthusiast with Node.js.
 💡 Love turning ideas into scalable, innovative solutions.
 🔧 Let's code something amazing together! Get in touch.
 - <h3 align="left">Languages and Tools:</h3>
