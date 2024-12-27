@@ -1,5 +1,4 @@
-### Hi there 👋, my name is bashputi
-#### I am Full stack developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello👋%2C+I'm+Rime+Islam...;A+MERN+%26+PREN+stack+developer...)](https://git.io/typing-svg)
 ![I am Full stack developer](https://i.ibb.co.com/g4nNqcF/Untitled.png)
 
 🚀 Passionate Full stack developer crafting seamless web experiences.
