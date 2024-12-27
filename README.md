@@ -1,11 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello👋%2C+I'm+Rime+Islam...;A+MERN+%26+PREN+stack+developer...)](https://git.io/typing-svg)
 ![I am Full stack developer](https://i.ibb.co.com/g4nNqcF/Untitled.png)
+<br>
 
 🚀 Passionate Full stack developer crafting seamless web experiences.
 🌟 Frontend wizard with React.js & NExt.js, backend enthusiast with Node.js.
 💡 Love turning ideas into scalable, innovative solutions.
 🔧 Let's code something amazing together! Get in touch.
-
+<br><br>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <table align="center">
   <tr>
@@ -97,7 +98,7 @@
     </td>
   </tr>
 </table>
-
+<br><br>
 
 <img align="right" alt="coding" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
@@ -112,7 +113,7 @@
 - 📫 How to reach me: rimeislam672@gmail.com 
 
 - ⚡ Fun fact:  I'm an aspiring baker! I enjoy creating delicious cakes almost as much as I love crafting code.
-
+<br><br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
