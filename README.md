@@ -7,7 +7,7 @@
 🔧 Let's code something amazing together! Get in touch.
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#skills">
