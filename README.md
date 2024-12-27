@@ -2,8 +2,8 @@
 ![I am Full stack developer](https://i.ibb.co.com/g4nNqcF/Untitled.png)
 <br>
 
-🚀 Passionate Full stack developer crafting seamless web experiences.
-🌟 Frontend wizard with React.js & NExt.js, backend enthusiast with Node.js.
+🚀 Passionate Full-stack developer crafting seamless web experiences.
+🌟 Frontend wizard with React.js & Next.js, backend enthusiast with Node.js.
 💡 Love turning ideas into scalable, innovative solutions.
 🔧 Let's code something amazing together! Get in touch.
 <br><br>
@@ -102,13 +102,13 @@
 
 <img align="right" alt="coding" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🔭 I’m currently working on *React js, Tailwind, Daisy UI, mongoDB*
+- 🔭 I’m currently working on *React.js, Next.js, Typescript*
 
-- 🌱 I’m currently learning socet.oi 
+- 🌱 I’m currently learning socket. oi.
 
 - 👯 I’m looking to collaborate on *GitHub*
 
-- 💬 Ask me about *react, tailwind, daisy UI, mongoDB*
+- 💬 Ask me about *express.js, prisma, typescript, next.js*
   
 - 📫 How to reach me: rimeislam672@gmail.com 
 
