@@ -33,6 +33,12 @@
 
 - ⚡ Fun fact:  I'm an aspiring baker! I enjoy creating delicious cakes almost as much as I love crafting code.
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Rime-Islam&theme=tokyonight)](https://git.io/streak-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rime-Islam&theme=dark&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rime-Islam&hide_progress=true)
+
   <h3> Contact Me With</h3>
 
    [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bashputi)
