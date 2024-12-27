@@ -136,57 +136,12 @@
 
   <h3> Contact Me With</h3>
 
+#### 📫 How to reach me:
 
-
-
-
-<h2 align="left">🤷‍♂️ Latest Project :</h2>
-
-  <h3> 1 : Book order and delivery</h3>
-  
-  <h4><a href="https://parcel-delivery-user.web.app">Live Link</h4>
-    
-  <h5>Features : </h5>
-  
-  -  Signup and signin page with firebase authentication.
-  -  Order a parcel section build with metarialui.
-  -  Depend on parcel status user can update, delete, and give reviews.
-  -  User can upload and update his/her profile picture.
-
- <h5>Technology:</h5>
- 
- [![My Skills](https://skillicons.dev/icons?i=js,materialui,tailwind,react,express,firebase,mongodb,html,css)](https://skillicons.dev)
-
-   <h3> 2 : Bakery website</h3>
-  
-  <h4><a href="https://bakery-client-2384d.web.app">Live Link</h4>
-    
-  <h5>Features : </h5>
-  
-  -  Firebase authentic login and register section with error text.
-  -  Private routes are protected from not logged in user.
-  -  Server site pagination and client site search functionality.
-  -  User can add their own food item.
-  -  User only have access to their booked and added data.
-
- <h5>Technology:</h5>
- 
- [![My Skills](https://skillicons.dev/icons?i=js,tailwind,react,express,firebase,mongodb,html,css)](https://skillicons.dev)
-
-   <h3> 3 : Car selling Website</h3>
-  
-  <h4><a href="https://brandsore-client.web.app">Live Link</h4>
-    
-  <h5>Features : </h5>
-  
-  -  Only logged in user has access to the private routes.
-  -  Available products will visible according to the clicked brand.
-  -  New product can be added through a input form page.
-  -  User can view and update the details of that product.
-
- <h5>Technology:</h5>
- 
- [![My Skills](https://skillicons.dev/icons?i=js,tailwind,react,express,firebase,mongodb,html,css)](https://skillicons.dev)
-
-
+[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/rimi.islam.9081323) &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/rime-islam-rimu-b8a2142a1/) &nbsp; 
+<a href="mailto:rimeislam672@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a> &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="3.5%"/>](https://wa.me/+8801718177859) &nbsp; 
+[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/726229) &nbsp; 
+[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-portfolio-an-online-resume-alternative-to-a-paper-copy-resume-color-tal-revivo.png" width="3.5%"/>]([https://yourportfolio.com](https://my-portfolio-cd7e9.web.app/))
 
