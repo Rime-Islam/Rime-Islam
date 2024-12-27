@@ -143,5 +143,4 @@
 <a href="mailto:rimeislam672@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a> &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="3.5%"/>](https://wa.me/+8801718177859) &nbsp; 
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/726229) &nbsp; 
-[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-portfolio-an-online-resume-alternative-to-a-paper-copy-resume-color-tal-revivo.png" width="3.5%"/>]([https://yourportfolio.com](https://my-portfolio-cd7e9.web.app/))
 
