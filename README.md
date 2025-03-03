@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello👋%2C+I'm+Rime+Islam+Rimu...;A+MERN+%26+PREN+stack+developer...)](https://git.io/typing-svg)
-![I am Full stack developer](https://i.ibb.co.com/g4nNqcF/Untitled.png)
+![I am Full stack developer](https://res.cloudinary.com/dve5juerj/image/upload/v1740995159/1732223102879_ue1qnk.jpg)
 <br>
 
 🚀 Passionate Full-stack developer crafting seamless web experiences.
