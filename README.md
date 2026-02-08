@@ -125,20 +125,18 @@
   <br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img
-  height="200"
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs
-  ?username=Rime-Islam
-  &layout=compact
-  &langs_count=8
-  &hide=C%23,PowerShell,Mathematica,Ruby,Objective-C,Objective-C%2B%2B,Cuda
-  &theme=react
-  &hide_border=true
-  &cache_seconds=86400"
-/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
-    </a>
   </div>
   <br>
 
