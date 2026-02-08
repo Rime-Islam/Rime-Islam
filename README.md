@@ -2,10 +2,11 @@
 ![I am Full stack developer](https://res.cloudinary.com/dve5juerj/image/upload/v1740995159/1732223102879_ue1qnk.jpg)
 <br>
 
-🚀 Passionate Full-stack developer crafting seamless web experiences.
-🌟 Frontend wizard with React.js & Next.js, backend enthusiast with Node.js.
-💡 Love turning ideas into scalable, innovative solutions.
-🔧 Let's code something amazing together! Get in touch.
+⚡ Full-stack engineer in the AI era.
+🧠 AI-assisted development to maximize productivity and creativity.
+⚛️ React / Next.js • 🔧 Node.js • 🤖 AI integrations
+🚀 Building scalable, intelligent systems — faster than ever before.
+💬 Open to collaboration on next-gen products.
 <br><br>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <table align="center">
@@ -102,17 +103,17 @@
 
 <img align="right" alt="coding" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🔭 I’m currently working on *React.js, Next.js, Typescript*
+- 🔭 Building ERP & SaaS applications for modern businesses
 
-- 🌱 I’m currently learning socket. oi.
+- 🤖 Passionate about AI-powered web experiences
 
-- 👯 I’m looking to collaborate on *GitHub*
+- ⚛️ React • Next.js • TypeScript • Node.js
 
-- 💬 Ask me about *express.js, prisma, typescript, next.js*
-  
-- 📫 How to reach me: rimeislam672@gmail.com 
+- 💬 Let’s talk about scalability, performance, and smart systems
 
-- ⚡ Fun fact:  I'm an aspiring baker! I enjoy creating delicious cakes almost as much as I love crafting code.
+- 📫 rimeislam672@gmail.com
+
+- ⚡ Fun fact: I’m an aspiring baker 🍰 — I enjoy creating cakes almost as much as crafting scalable software
 <br><br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
