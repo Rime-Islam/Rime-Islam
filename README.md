@@ -140,10 +140,14 @@
 <!-- Main stats -->
 ![Metrics](./github-metrics.svg)
 
-<!-- Streak -->
-![Streak](https://streak-stats.demolab.com?user=Rime-Islam)
+<!-- Trophies -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=Rime-Islam&theme=darkhub&no-frame=true&row=1)
 
-<!-- Activity graph -->
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Rime-Islam&theme=github-compact)
+<!-- Summary Card -->
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rime-Islam&theme=github_dark)
 
+<!-- Languages -->
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rime-Islam&theme=github_dark)
 
+<!-- Contribution Calendar -->
+![Calendar](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rime-Islam&theme=github_dark&utcOffset=6)
