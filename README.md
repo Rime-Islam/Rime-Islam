@@ -137,4 +137,13 @@
 [<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="3.5%"/>](https://wa.me/+8801718177859) &nbsp; 
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/726229) &nbsp; 
 
+<!-- Main stats -->
 ![Metrics](./github-metrics.svg)
+
+<!-- Streak -->
+![Streak](https://streak-stats.demolab.com?user=Rime-Islam)
+
+<!-- Activity graph -->
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Rime-Islam&theme=github-compact)
+
+
