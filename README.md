@@ -117,15 +117,38 @@
 <br><br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rime-Islam&theme=tokyonight" alt="GitHub Streak" /></a>
-  </div>
-  <br>
-  <br>
+<!-- ROW 1 -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Rime-Islam&theme=tokyonight" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rime-Islam&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rime-Islam&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<!-- ROW 2 -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rime-Islam&theme=github_dark" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rime-Islam&theme=github_dark&utcOffset=6" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Rime-Islam&theme=react-dark&bg_color=20232a&hide_border=true"
+  width="100%"
+/>
+
 
   <h3> Contact Me With</h3>
 
@@ -140,14 +163,3 @@
 <!-- Main stats -->
 ![Metrics](./github-metrics.svg)
 
-<!-- Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=Rime-Islam&theme=darkhub&no-frame=true&row=1)
-
-<!-- Summary Card -->
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rime-Islam&theme=github_dark)
-
-<!-- Languages -->
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rime-Islam&theme=github_dark)
-
-<!-- Contribution Calendar -->
-![Calendar](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rime-Islam&theme=github_dark&utcOffset=6)
