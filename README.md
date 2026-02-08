@@ -120,24 +120,8 @@
 <p align=center>
   <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rime-Islam&theme=tokyonight" alt="GitHub Streak" /></a>
-
   </div>
-  <br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-  </div>
+  <br>
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rime-Islam&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
@@ -153,3 +137,4 @@
 [<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="3.5%"/>](https://wa.me/+8801718177859) &nbsp; 
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/726229) &nbsp; 
 
+![Metrics](./github-metrics.svg)
