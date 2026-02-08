@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch:
 
 jobs:
@@ -11,5 +11,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Rime-Islam
-          languages: yes
-          languages.limit: 8
+          config_timezone: Asia/Dhaka
